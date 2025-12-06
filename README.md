@@ -4,8 +4,7 @@
  
 ---
 
-## 🚀 About Me  
-- 🎓 **2nd Year CSE @ Bennett University**  
+
 -  I design interfaces, build models, write APIs, and like to break things.
 
 ---
