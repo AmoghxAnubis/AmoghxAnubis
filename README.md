@@ -8,12 +8,7 @@
 
 ## 🚀 About Me  
 - 🎓 **2nd Year CSE @ Bennett University**  
-- 🔥 Passionate about **Machine Learning, Backend Development, and Full-Stack Engineering**  
-- 🧠 Currently learning **ML systems, FastAPI, and cloud deployment workflows**  
-- 🛠 Building multiple side projects that blend **AI + design + full stack**  
-- 🎯 Goal for 2025–26: land an **ML/Backend internship** + ship production-grade projects  
-- 💬 Ask me about **FastAPI, Flask, React, Next.js, Python, ML, databases**  
-- ⚡ Fun fact: I design interfaces, build models, write APIs, and break things daily.
+- I design interfaces, build models, write APIs, and like to break things daily.
 
 ---
 
