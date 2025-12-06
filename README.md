@@ -1,14 +1,12 @@
 <!-- Banner / Typing Intro -->
 <h1 align="center">Hi, I'm Amogh Sharma 👋</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Backend+Developer;Full+Stack+Developer;Designer+%7C+UI%2FUX%2FInteraction;Always+Building+Something+Cool+%F0%9F%9A%80" alt="Typing SVG" />
-</h3>
-
+ 
 ---
 
 ## 🚀 About Me  
 - 🎓 **2nd Year CSE @ Bennett University**  
-- I design interfaces, build models, write APIs, and like to break things daily.
+-  I design interfaces, build models, write APIs, and like to break things daily.
 
 ---
 
@@ -94,24 +92,3 @@
 ![Wix](https://img.shields.io/badge/Wix-0C6BF0?style=for-the-badge&logo=wix&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=5" />
-</p>
-
----
-
-# 🌱 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
-</p>
