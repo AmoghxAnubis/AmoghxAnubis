@@ -5,7 +5,7 @@
 ---
 
 
--  I design interfaces, build models, write APIs, and like to break things.
+-  I design interfaces, build models, write APIs, and like to break things.Enjoying ts
 
 ---
 
