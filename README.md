@@ -1,93 +1,136 @@
-<!-- Banner / Typing Intro -->
-<h1 align="center">Hi, I'm Amogh Sharma 👋</h1>
-<h3 align="center">
- 
+<div align="center">
+
+<sub>AMOGHXANUBIS / PERSONAL WORKSPACE</sub>
+
+# AMOGH SHARMA
+
+**AI & ML · Full-Stack Development · Systems · Interface Design**
+
+I design interfaces, build models, write APIs, and turn experiments into software people can use.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white)](https://anubis-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square)](https://www.linkedin.com/in/amogh-sharma-9aa6a1288/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-18181B?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Amogh1704/)
+[![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white)](mailto:amoghzack321@gmail.com)
+
+<br>
+
+*From the interface to the API to the process underneath.*
+
+</div>
+
 ---
 
+### `$ whoami`
 
--  I design interfaces, build models, write APIs, and like to break things.
+```yaml
+name: Amogh Sharma
+handle: AmoghxAnubis
+education: B.Tech Computer Science · Bennett University
+interests:
+  - AI that fits into everyday workflows
+  - Full-stack products with thoughtful interfaces
+  - Desktop applications and developer tools
+  - Understanding the systems underneath the software
+approach: Design it. Build it. Test it. Make it useful.
+```
 
----
+I like working across the stack: shaping the experience, building the backend, and figuring out how the pieces behave together. My projects range from local AI workspaces to native desktop overlays and Linux utilities.
 
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/amogh-sharma-9aa6a1288/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://anubis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Amogh1704/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="mailto:amoghzack321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### `$ ls ./featured-builds`
+
+#### 01 / [Synapse](https://github.com/AmoghxAnubis/Synapse)
+**A local AI workspace for your documents and conversations.**
+
+Import documents, retrieve relevant context, and ask questions with source-backed answers. Synapse brings document memory, persistent conversations, and selected connected sources into one workspace, with local embeddings and generation.
+
+**Built with:** Next.js · FastAPI · ONNX Runtime · ChromaDB · SQLite · Ollama
+
+**What I’m exploring:** Retrieval quality, document provenance, local inference, and useful AI workflows.
+
+#### 02 / [PILL](https://github.com/AmoghxAnubis/PILL)
+**A compact information layer for the Windows desktop.**
+
+A dynamic-island-style overlay for media, system telemetry, focus sessions, and contextual information. A separate control application handles configuration, while the overlay keeps the everyday experience small and accessible.
+
+**Built with:** Tauri 2 · Rust · React · TypeScript · Vite
+
+**What I’m exploring:** Native desktop integration, interaction design, packaging, and release workflows.
+
+#### 03 / [GHOST](https://github.com/AmoghxAnubis/ghost)
+**Find out where your disk space actually went.**
+
+A Bash utility for investigating storage: scan usage, inspect directories, identify large files, and confirm duplicates. It distinguishes logical file size from actual disk usage and helps make hidden storage consumers easier to understand.
+
+**Built with:** Bash · Linux utilities · SHA-256
+
+**What I’m exploring:** Filesystems, practical CLI design, and turning a small utility into a usable product.
+
+<p align="right">
+  <a href="https://github.com/AmoghxAnubis?tab=repositories">Explore the rest of my repositories ↗</a>
 </p>
 
 ---
 
-# 🛠 Tech Stack
+### `$ cat ./toolbox`
 
-### **Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+| Area | Technologies I work with |
+| :--- | :--- |
+| Languages | Python · JavaScript · TypeScript · C++ · Java · Bash |
+| Frontend | React · Next.js · Tailwind CSS |
+| Backend | Node.js · Express · Flask · FastAPI |
+| Data & AI | NumPy · pandas · scikit-learn · TensorFlow · PyTorch · ChromaDB |
+| Databases | PostgreSQL · MongoDB · SQLite |
+| Desktop & Systems | Tauri · Rust · Linux |
+| Shipping | Git · GitHub Actions · AWS · Vercel · Postman |
+| Design | Figma · Photoshop · Illustrator |
 
----
+### `$ tail ./learning.log`
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- Exploring Rust through native desktop applications and systems work.
+- Improving how local AI retrieves context and supports its answers.
+- Building a stronger foundation in DSA and problem solving.
+- Thinking beyond the prototype: tests, documentation, packaging, and releases.
+- Giving interface design the same attention as the code underneath it.
 
----
+### `$ cat ./engineering-principles.md`
 
-### **Backend / Frameworks**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+> Build around a real problem.  
+> Make the interface understandable.  
+> Learn what happens beneath the abstraction.  
+> Keep improving after the first working version.
 
----
+<details>
+<summary><code>$ cat ./amogh.json</code></summary>
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+```json
+{
+  "name": "Amogh Sharma",
+  "alias": "Anubis",
+  "focus": ["AI/ML", "full-stack", "systems", "design"],
+  "projects": ["Synapse", "PILL", "GHOST"],
+  "likes": [
+    "useful abstractions",
+    "well-designed interfaces",
+    "tools that remove friction"
+  ],
+  "workflow": "idea → design → implementation → testing → iteration"
+}
+```
 
----
-
-### **Machine Learning / Data**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
----
-
-### **Cloud & Deployment**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+</details>
 
 ---
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<div align="center">
 
----
+**Have an interesting problem or an idea worth building?**
 
-### **Design**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline-7000FF?style=for-the-badge&logo=spline&logoColor=white)
-![Rive](https://img.shields.io/badge/Rive-000000?style=for-the-badge&logo=rive&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-0C6BF0?style=for-the-badge&logo=wix&logoColor=white)
+[Let’s connect](https://www.linkedin.com/in/amogh-sharma-9aa6a1288/) · [See my work](https://anubis-portfolio.vercel.app/) · [Send an email](mailto:amoghzack321@gmail.com)
 
----
+<br>
+
+<sub>DESIGN WITH INTENT. BUILD WITH CURIOSITY. SHIP WITH CARE.</sub>
+
+</div>
+
