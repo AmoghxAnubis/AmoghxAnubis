@@ -1,166 +1,187 @@
 <div align="center">
 
-<sub>AMOGHXANUBIS / PERSONAL WORKSPACE</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:312E81,100:A78BFA&amp;height=230&amp;section=header&amp;text=AMOGH%20SHARMA&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=ANUBIS%20%2F%20DESIGNER%20%2B%20DEVELOPER&amp;descSize=16&amp;descAlignY=57&amp;animation=fadeIn" width="100%" alt="Amogh Sharma — Anubis, designer and developer">
 
-# AMOGH SHARMA
+### Good software should feel as good as it works.
 
-**AI & ML · Full-Stack Development · Systems · Interface Design**
-
-I design interfaces, build models, write APIs, and turn experiments into software people can use.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white)](https://anubis-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square)](https://www.linkedin.com/in/amogh-sharma-9aa6a1288/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-18181B?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Amogh1704/)
-[![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white)](mailto:amoghzack321@gmail.com)
+I build **AI workspaces**, **desktop tools**, and **full-stack experiences**.  
+Curious about the model. Particular about the interface. Interested in the system underneath.
 
 <br>
 
-*From the interface to the API to the process underneath.*
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-A78BFA?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://anubis-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-21262D?style=for-the-badge)](https://www.linkedin.com/in/amogh-sharma-9aa6a1288/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-21262D?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/u/Amogh1704/)
+[![Email](https://img.shields.io/badge/SAY_HELLO-21262D?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:amoghzack321@gmail.com)
+
+<br>
+<br>
+
+<sub>01 / THE BUILDER &nbsp; · &nbsp; 02 / THE WORK &nbsp; · &nbsp; 03 / THE SIGNAL</sub>
 
 </div>
 
----
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><code>&gt; whoami</code></h3>
-<pre>Name       : Amogh Sharma
-Handle     : AmoghxAnubis
-Role       : CSE Student / Developer
-College    : Bennett University
-Focus      : AI · Full-Stack · Systems
-Build Style: Useful + Thoughtful
-Mode       : Design · Build · Debug · Ship</pre>
-<h3><code>&gt; current_interests</code></h3>
-<pre>[01] Local AI + retrieval systems
-[02] Full-stack product development
-[03] Native desktop experiences
-[04] Rust + Linux + CLI tooling
-[05] Interface design + interaction
-[06] DSA + problem solving</pre>
+<h3><code>01 / whoami</code></h3>
+<p><b>Amogh Sharma.</b> Also goes by <b>Anubis.</b></p>
+<p>CSE student at Bennett University, building where AI, product design, and systems meet.</p>
+<pre>design_sense   = on
+curiosity      = high
+learning_mode  = always
+next_step      = build something useful</pre>
+<h4>What keeps me curious</h4>
+<p>🧠 Local AI &amp; retrieval<br>
+🪟 Native desktop experiences<br>
+⚙️ Rust, Linux &amp; CLI tools<br>
+🎨 Interfaces with intent<br>
+🧩 DSA &amp; problem solving</p>
+<p><sub>I like knowing both how it looks<br>and what happens when you click it.</sub></p>
 </td>
 <td width="50%" valign="top">
-<h3><code>&gt; skill_tree --loaded</code></h3>
+<h3><code>toolbox --loaded</code></h3>
 <h4>Languages</h4>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="24" height="24" alt="Python" title="Python"> Python&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript" title="JavaScript"> JavaScript&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="24" height="24" alt="TypeScript" title="TypeScript"> TypeScript&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="24" height="24" alt="C++" title="C++"> C++&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="24" height="24" alt="Java" title="Java"> Java&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="24" height="24" alt="Bash" title="Bash"> Bash&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python" title="Python">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++" title="C++">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" alt="Java" title="Java">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30" height="30" alt="Bash" title="Bash">&nbsp;&nbsp;
+<br>
+<sub>Python · JavaScript · TypeScript · C++ · Java · Bash</sub>
 </p>
 <h4>Frontend & Backend</h4>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="24" height="24" alt="React" title="React"> React&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="24" height="24" alt="Next.js" title="Next.js"> Next.js&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="24" height="24" alt="Tailwind CSS" title="Tailwind CSS"> Tailwind CSS&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="24" height="24" alt="Node.js" title="Node.js"> Node.js&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="24" height="24" alt="Express" title="Express"> Express&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="24" height="24" alt="Flask" title="Flask"> Flask&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="24" height="24" alt="FastAPI" title="FastAPI"> FastAPI&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30" alt="React" title="React">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30" height="30" alt="Next.js" title="Next.js">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js" title="Node.js">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30" height="30" alt="Express" title="Express">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30" height="30" alt="Flask" title="Flask">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="30" height="30" alt="FastAPI" title="FastAPI">&nbsp;&nbsp;
+<br>
+<sub>React · Next.js · Tailwind CSS · Node.js · Express · Flask · FastAPI</sub>
 </p>
 <h4>AI & Data</h4>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="24" height="24" alt="PyTorch" title="PyTorch"> PyTorch&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="24" height="24" alt="TensorFlow" title="TensorFlow"> TensorFlow&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="24" height="24" alt="scikit-learn" title="scikit-learn"> scikit-learn&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="24" height="24" alt="PostgreSQL" title="PostgreSQL"> PostgreSQL&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="24" height="24" alt="MongoDB" title="MongoDB"> MongoDB&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="24" height="24" alt="SQLite" title="SQLite"> SQLite&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="30" height="30" alt="PyTorch" title="PyTorch">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="30" height="30" alt="TensorFlow" title="TensorFlow">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="30" height="30" alt="scikit-learn" title="scikit-learn">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL" title="PostgreSQL">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB" title="MongoDB">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30" height="30" alt="SQLite" title="SQLite">&nbsp;&nbsp;
+<br>
+<sub>PyTorch · TensorFlow · scikit-learn · PostgreSQL · MongoDB · SQLite</sub>
 </p>
 <h4>Systems & Tools</h4>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="24" height="24" alt="Rust" title="Rust"> Rust&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="24" height="24" alt="Tauri" title="Tauri"> Tauri&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="24" height="24" alt="Linux" title="Linux"> Linux&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="24" height="24" alt="Git" title="Git"> Git&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="24" height="24" alt="GitHub Actions" title="GitHub Actions"> GitHub Actions&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="24" height="24" alt="VS Code" title="VS Code"> VS Code&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="30" height="30" alt="Rust" title="Rust">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="30" height="30" alt="Tauri" title="Tauri">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" title="Linux">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" alt="Git" title="Git">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="30" height="30" alt="GitHub Actions" title="GitHub Actions">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" title="VS Code">&nbsp;&nbsp;
+<br>
+<sub>Rust · Tauri · Linux · Git · GitHub Actions · VS Code</sub>
 </p>
 <h4>Design</h4>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="24" height="24" alt="Figma" title="Figma"> Figma&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="24" height="24" alt="Photoshop" title="Photoshop"> Photoshop&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="24" height="24" alt="Illustrator" title="Illustrator"> Illustrator&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30" height="30" alt="Figma" title="Figma">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="30" height="30" alt="Photoshop" title="Photoshop">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="30" height="30" alt="Illustrator" title="Illustrator">&nbsp;&nbsp;
+<br>
+<sub>Figma · Photoshop · Illustrator</sub>
 </p>
 </td>
 </tr>
 </table>
 
-I like working across the stack: shaping the experience, building the backend, and figuring out how the pieces behave together. My projects range from local AI workspaces to native desktop overlays and Linux utilities.
+<br>
 
-### `> featured_builds`
+## `02 / selected_work`
 
-#### 01 / [Synapse](https://github.com/AmoghxAnubis/Synapse)
-**A local AI workspace for your documents and conversations.**
+Three different problems. One recurring question: **how can this be more useful?**
 
-Import documents, retrieve relevant context, and ask questions with source-backed answers. Synapse brings document memory, persistent conversations, and selected connected sources into one workspace, with local embeddings and generation.
+<table>
+<tr>
+<td width="33%" valign="top">
+<p><sub>🧠 LOCAL AI / KNOWLEDGE</sub></p>
+<h3><a href="https://github.com/AmoghxAnubis/Synapse">Synapse ↗</a></h3>
+<p><b>Your documents.<br>Your models.<br>Your workspace.</b></p>
+<p>A local AI workspace that turns documents into searchable memory and source-backed conversations.</p>
+<p><code>local inference</code><br><code>document retrieval</code><br><code>persistent conversations</code></p>
+<p><sub>Next.js · FastAPI · ONNX<br>ChromaDB · SQLite · Ollama</sub></p>
+</td>
+<td width="33%" valign="top">
+<p><sub>🪟 DESKTOP / INTERACTION</sub></p>
+<h3><a href="https://github.com/AmoghxAnubis/PILL">PILL ↗</a></h3>
+<p><b>A little space.<br>A useful signal.<br>A quieter desktop.</b></p>
+<p>A compact Windows overlay for media, telemetry, and focus, with a dedicated configuration app.</p>
+<p><code>native integration</code><br><code>contextual information</code><br><code>desktop interaction</code></p>
+<p><sub>Tauri 2 · Rust · React<br>TypeScript · Vite</sub></p>
+</td>
+<td width="33%" valign="top">
+<p><sub>👻 SYSTEMS / CLI</sub></p>
+<h3><a href="https://github.com/AmoghxAnubis/ghost">GHOST ↗</a></h3>
+<p><b>Disk space vanished?<br>Follow the evidence.<br>Find the culprit.</b></p>
+<p>A Linux storage investigator that exposes hidden consumers, large files, and confirmed duplicates.</p>
+<p><code>actual vs. logical size</code><br><code>directory inspection</code><br><code>duplicate detection</code></p>
+<p><sub>Bash · Linux utilities<br>SHA-256</sub></p>
+</td>
+</tr>
+</table>
 
-**Built with:** Next.js · FastAPI · ONNX Runtime · ChromaDB · SQLite · Ollama
+<p align="right"><a href="https://github.com/AmoghxAnubis?tab=repositories"><b>More experiments in the repositories →</b></a></p>
 
-**What I’m exploring:** Retrieval quality, document provenance, local inference, and useful AI workflows.
+<br>
 
-#### 02 / [PILL](https://github.com/AmoghxAnubis/PILL)
-**A compact information layer for the Windows desktop.**
+### `runtime.log`
 
-A dynamic-island-style overlay for media, system telemetry, focus sessions, and contextual information. A separate control application handles configuration, while the overlay keeps the everyday experience small and accessible.
+```text
+[exploring] Rust, native desktop integration, and Linux tooling
+[refining]  Local AI retrieval and answers with evidence
+[learning]  DSA, better abstractions, and why things break
+[building]  The version I'd actually want to use
+```
 
-**Built with:** Tauri 2 · Rust · React · TypeScript · Vite
+<br>
 
-**What I’m exploring:** Native desktop integration, interaction design, packaging, and release workflows.
-
-#### 03 / [GHOST](https://github.com/AmoghxAnubis/ghost)
-**Find out where your disk space actually went.**
-
-A Bash utility for investigating storage: scan usage, inspect directories, identify large files, and confirm duplicates. It distinguishes logical file size from actual disk usage and helps make hidden storage consumers easier to understand.
-
-**Built with:** Bash · Linux utilities · SHA-256
-
-**What I’m exploring:** Filesystems, practical CLI design, and turning a small utility into a usable product.
-
-<p align="right">
-  <a href="https://github.com/AmoghxAnubis?tab=repositories">Explore the rest of my repositories ↗</a>
-</p>
-
----
-
-### `> runtime.log`
-
-- Exploring Rust through native desktop applications and systems work.
-- Improving how local AI retrieves context and supports its answers.
-- Building a stronger foundation in DSA and problem solving.
-- Thinking beyond the prototype: tests, documentation, packaging, and releases.
-- Giving interface design the same attention as the code underneath it.
-
-### `> github.telemetry`
+## `03 / github.telemetry`
 
 <p align="center">
   <a href="https://github.com/AmoghxAnubis">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmoghxAnubis&amp;theme=github_dark" width="48%" alt="Amogh Sharma's GitHub statistics">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmoghxAnubis&amp;theme=tokyonight" width="48%" alt="Amogh Sharma's GitHub statistics">
   </a>
   <a href="https://github.com/AmoghxAnubis?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmoghxAnubis&amp;theme=github_dark" width="48%" alt="Top languages across Amogh's repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmoghxAnubis&amp;theme=tokyonight" width="48%" alt="Top languages across Amogh's repositories">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/AmoghxAnubis">
-    <img src="https://streak-stats.demolab.com/?user=AmoghxAnubis&amp;theme=github-dark-blue&amp;hide_border=true&amp;ring=39FF14&amp;fire=39FF14&amp;currStreakLabel=39FF14" width="96%" alt="Amogh Sharma's contribution streak">
+    <img src="https://streak-stats.demolab.com/?user=AmoghxAnubis&amp;theme=tokyonight&amp;hide_border=true&amp;ring=A78BFA&amp;fire=A78BFA&amp;currStreakLabel=A78BFA" width="96%" alt="Amogh Sharma's contribution streak">
   </a>
 </p>
 
 <!-- Live cards are provided by external services and may be cached or temporarily unavailable. -->
 
-### `$ cat ./engineering-principles.md`
+<br>
 
-> Build around a real problem.  
-> Make the interface understandable.  
-> Learn what happens beneath the abstraction.  
-> Keep improving after the first working version.
+<div align="center">
+
+### Design the experience. Understand the system. Build the whole thing.
+
+<sub>That’s the kind of developer I’m working to become.</sub>
+
+</div>
+
+<br>
 
 <details>
-<summary><code>$ cat ./amogh.json</code></summary>
+<summary><b>Bonus level:</b> <code>cat amogh.json</code></summary>
 
 ```json
 {
@@ -179,17 +200,21 @@ A Bash utility for investigating storage: scan usage, inspect directories, ident
 
 </details>
 
----
+<br>
 
 <div align="center">
 
-**Have an interesting problem or an idea worth building?**
+### Got a strange idea that might just work?
 
-[Let’s connect](https://www.linkedin.com/in/amogh-sharma-9aa6a1288/) · [See my work](https://anubis-portfolio.vercel.app/) · [Send an email](mailto:amoghzack321@gmail.com)
+I’m interested in projects where **useful engineering meets thoughtful design**.
+
+[Show me what you're thinking →](mailto:amoghzack321@gmail.com)
 
 <br>
 
-<sub>DESIGN WITH INTENT. BUILD WITH CURIOSITY. SHIP WITH CARE.</sub>
+<sub>AMOGH SHARMA / AMOGHXANUBIS</sub><br>
+<sub>STILL CURIOUS. STILL BUILDING.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:312E81,100:A78BFA&amp;height=100&amp;section=footer" width="100%" alt="Purple wave footer">
 
 </div>
-
