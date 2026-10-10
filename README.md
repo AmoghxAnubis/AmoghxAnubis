@@ -29,10 +29,7 @@ Curious about the model. Particular about the interface. Interested in the syste
 <h3><code>01 / whoami</code></h3>
 <p><b>Amogh Sharma.</b> Also goes by <b>Anubis.</b></p>
 <p>CSE student at Bennett University, building where AI, product design, and systems meet.</p>
-<pre>design_sense   = on
-curiosity      = high
-learning_mode  = always
-next_step      = build something useful</pre>
+
 <h4>What keeps me curious</h4>
 <p>🧠 Local AI &amp; retrieval<br>
 🪟 Native desktop experiences<br>
