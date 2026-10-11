@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:312E81,100:A78BFA&amp;height=230&amp;section=header&amp;text=AMOGH%20SHARMA&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=ANUBIS%20%2F%20DESIGNER%20%2B%20DEVELOPER&amp;descSize=16&amp;descAlignY=57&amp;animation=fadeIn" width="100%" alt="Amogh Sharma — Anubis, designer and developer">
+```text
+    ___    _   ____  ______  _________
+   /   |  / | / / / / / __ )/  _/ ___/
+  / /| | /  |/ / / / / __  |/ / \__ \ 
+ / ___ |/ /|  / /_/ / /_/ // / ___/ / 
+/_/  |_/_/ |_/\____/_____/___//____/  
+                                      
+> AMOGH SHARMA // DESIGNER + DEVELOPER
+```
 
 ### Good software should feel as good as it works.
 
