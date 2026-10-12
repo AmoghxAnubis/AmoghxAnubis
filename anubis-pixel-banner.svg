@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Amogh Sharma — Anubis pixel banner</title>
+  <desc id="desc">A high-contrast black pixel-art banner with an Anubis head, neon cyan and magenta accents, and Amogh Sharma's name.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#172033" stroke-width="1" opacity=".38"/>
+    </pattern>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset=".5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#FF2D95"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="#05070A"/>
+  <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#263249" stroke-width="2"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <path d="M0 6H360L390 0H810L840 6H1200" stroke="url(#scan)" stroke-width="6"/>
+
+  <!-- pixel Anubis -->
+  <g transform="translate(62 32)" shape-rendering="crispEdges">
+    <path d="M52 0h30v20h20v20h20v20h16v48h-16v30h-20v20H82v22H52v-24H30v-24H16V84H0V44h16V22h36z" fill="#101727" stroke="#00E5FF" stroke-width="4"/>
+    <path d="M16 22h36v62H32V64H16zM82 20h20v20h20v42H98V60H82z" fill="#151D30"/>
+    <path d="M52 60h46v20h20v30H98v24H78v18H54v-20H36v-24H20V84h32z" fill="#232D45"/>
+    <path d="M44 82h22v14H44z" fill="#FFC857" filter="url(#glow)"/>
+    <path d="M82 82h22v14H82z" fill="#FF2D95" filter="url(#glow)"/>
+    <path d="M66 106h18v18H66zM54 126h42v12H54z" fill="#05070A"/>
+    <path d="M42 158h68v18H42zM28 176h98v18H28zM14 194h126v18H14zM0 212h154v24H0z" fill="#11192A" stroke="#7C3AED" stroke-width="3"/>
+    <path d="M18 218h20v12H18zm48 0h20v12H66zm48 0h20v12h-20z" fill="#00E5FF"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="270" y="76" fill="#6B7895" font-size="18" letter-spacing="4">DESIGNER + DEVELOPER</text>
+    <text x="266" y="146" fill="#F7FAFF" font-size="58" font-weight="800" letter-spacing="3">AMOGH SHARMA</text>
+    <rect x="270" y="170" width="690" height="4" fill="url(#scan)" filter="url(#glow)"/>
+    <text x="270" y="216" fill="#00E5FF" font-size="22">AI WORKSPACES</text>
+    <text x="487" y="216" fill="#42506B" font-size="22">//</text>
+    <text x="532" y="216" fill="#FFC857" font-size="22">NATIVE TOOLS</text>
+    <text x="700" y="216" fill="#42506B" font-size="22">//</text>
+    <text x="745" y="216" fill="#FF2D95" font-size="22">LINUX SYSTEMS</text>
+    <text x="270" y="264" fill="#7B88A3" font-size="17">amogh@anubis:~$ build --with-intent</text>
+    <text x="1038" y="264" fill="#00E5FF" font-size="17">● ONLINE</text>
+  </g>
+
+  <g fill="#263249">
+    <rect x="1128" y="34" width="12" height="12"/><rect x="1150" y="34" width="12" height="12"/><rect x="1172" y="34" width="12" height="12"/>
+  </g>
+</svg>
