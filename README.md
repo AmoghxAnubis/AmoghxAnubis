@@ -1,3 +1,4 @@
+```html
 <div align="center">
   <img src="./assets/hero.svg" width="100%" alt="ANUBIS — Amogh Sharma | Designer + Developer" />
   <br /><br />
@@ -35,12 +36,14 @@
       <p>Documents → searchable memory.</p>
       <p><code>Next.js</code> <code>FastAPI</code> <code>ONNX</code></p>
     </td>
+
     <td width="33%" valign="top">
       <samp>02 / WINDOWS OVERLAY</samp>
       <h3><a href="https://github.com/AmoghxAnubis/PILL">PILL ↗</a></h3>
       <p>Media. Telemetry. Focus.</p>
       <p><code>Tauri</code> <code>Rust</code> <code>React</code></p>
     </td>
+
     <td width="33%" valign="top">
       <samp>03 / DISK INVESTIGATOR</samp>
       <h3><a href="https://github.com/AmoghxAnubis/ghost">GHOST ↗</a></h3>
@@ -55,7 +58,12 @@
 
 <br />
 
-<code>Element</code> controller-driven Linux control plane · <code>SentinelCI</code> test intelligence · <code>KernelNotes</code> developer knowledge base · <code>Eunoia</code> mental wellness · <code>NeuroCredit</code> identity · <code>memOS</code> memory API
+<code>Element</code> controller-driven Linux control plane ·
+<code>SentinelCI</code> test intelligence ·
+<code>KernelNotes</code> developer knowledge base ·
+<code>Eunoia</code> mental wellness ·
+<code>NeuroCredit</code> identity ·
+<code>memOS</code> memory API
 
 </details>
 
@@ -64,24 +72,120 @@
 <img src="./assets/stack.svg" width="100%" alt="03 / Toolkit" />
 
 <table>
-  <tr><td><samp>LANGUAGES</samp></td><td><img src="./assets/stack-languages.svg" height="42" alt="Python, TypeScript, JavaScript, C++, Java, Bash, Solidity" /></td></tr>
-  <tr><td><samp>WEB + NATIVE</samp></td><td><img src="./assets/stack-web.svg" height="42" alt="React, Next.js, Tailwind, Node.js, Express, Flask, FastAPI, Tauri" /></td></tr>
-  <tr><td><samp>AI + VISION</samp></td><td><img src="./assets/stack-ai.svg" height="42" alt="PyTorch, TensorFlow, scikit-learn, OpenCV" /><br /><sub>ONNX · LangChain · YOLO · MediaPipe</sub></td></tr>
-  <tr><td><samp>DATA</samp></td><td><img src="./assets/stack-data.svg" height="42" alt="PostgreSQL, MongoDB, SQLite, Prisma" /><br /><sub>ChromaDB · CockroachDB</sub></td></tr>
-  <tr><td><samp>INFRA + TOOLS</samp></td><td><img src="./assets/stack-infra.svg" height="42" alt="Linux, Git, Docker, AWS, Vercel, Postman" /></td></tr>
-  <tr><td><samp>DESIGN</samp></td><td><img src="./assets/stack-design.svg" height="42" alt="Figma, Photoshop, Illustrator" /><br /><sub>Lightroom</sub></td></tr>
+
+  <tr>
+    <td>
+      <samp>LANGUAGES</samp>
+    </td>
+    <td>
+      <img
+        src="./assets/stack-languages.svg"
+        height="42"
+        alt="Python, TypeScript, JavaScript, C++, Java, Bash, Solidity"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <samp>WEB + NATIVE</samp>
+    </td>
+    <td>
+      <img
+        src="./assets/stack-web.svg"
+        height="42"
+        alt="React, Next.js, Tailwind, Node.js, Express, Flask, FastAPI, Tauri"
+      />
+      <br />
+      <sub>Flask</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <samp>AI + VISION</samp>
+    </td>
+    <td>
+      <img
+        src="./assets/stack-ai.svg"
+        height="42"
+        alt="PyTorch, TensorFlow, scikit-learn, OpenCV"
+      />
+      <br />
+      <sub>ONNX · LangChain · YOLO · MediaPipe</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <samp>DATA</samp>
+    </td>
+    <td>
+      <img
+        src="./assets/stack-data.svg"
+        height="42"
+        alt="PostgreSQL, MongoDB, SQLite, Prisma, Redis"
+      />
+      <br />
+      <sub>ChromaDB · CockroachDB · Redis</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <samp>INFRA + TOOLS</samp>
+    </td>
+    <td>
+      <img
+        src="./assets/stack-infra.svg"
+        height="42"
+        alt="Linux, Git, Docker, AWS, Vercel, Postman"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <samp>DESIGN</samp>
+    </td>
+    <td>
+      <img
+        src="./assets/stack-design.svg"
+        height="42"
+        alt="Figma, Photoshop, Illustrator"
+      />
+      <br />
+      <sub>Lightroom</sub>
+    </td>
+  </tr>
+
 </table>
 
-<p><samp>LOADING NEXT →</samp> <code>Rust</code> <code>Kubernetes</code> <code>GCP</code> <code>Linux internals</code></p>
+<p>
+  <samp>LOADING NEXT →</samp>
+  <code>Rust</code>
+  <code>Kubernetes</code>
+  <code>GCP</code>
+  <code>Linux internals</code>
+</p>
 
 <br />
 
-<a href="https://github.com/AmoghxAnubis?tab=overview"><img src="./assets/github-signal.svg" width="100%" alt="Public GitHub snapshot: repositories, stars, followers and primary repository languages" /></a>
+<a href="https://github.com/AmoghxAnubis?tab=overview">
+  <img
+    src="./assets/github-signal.svg"
+    width="100%"
+    alt="Public GitHub snapshot: repositories, stars, followers and primary repository languages"
+  />
+</a>
 
 <br /><br />
 
 <div align="center">
   <samp>DESIGN WITH INTENT. BUILD WITH CURIOSITY.</samp>
   <br /><br />
-  <a href="https://anubis-portfolio.vercel.app/">Portfolio ↗</a> &nbsp; / &nbsp; <a href="https://github.com/AmoghxAnubis?tab=repositories">Explore the builds ↗</a>
+  <a href="https://anubis-portfolio.vercel.app/">Portfolio ↗</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/AmoghxAnubis?tab=repositories">Explore the builds ↗</a>
 </div>
+```
