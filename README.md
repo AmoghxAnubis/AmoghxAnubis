@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
   <img src="./assets/hero.svg" width="100%" alt="ANUBIS — Amogh Sharma | Designer + Developer" />
   <br /><br />
@@ -188,4 +188,3 @@
   &nbsp; / &nbsp;
   <a href="https://github.com/AmoghxAnubis?tab=repositories">Explore the builds ↗</a>
 </div>
-```
