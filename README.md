@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="ANUBIS — Amogh Sharma | Designer + Developer" />
+  <img src="./hero.svg" width="100%" alt="ANUBIS — Amogh Sharma | Designer + Developer" />
   <br /><br />
   <a href="https://anubis-portfolio.vercel.app/"><img src="./assets/link-portfolio.svg" width="160" alt="Portfolio" /></a>
   <a href="https://github.com/AmoghxAnubis?tab=repositories"><img src="./assets/link-repos.svg" width="160" alt="Repositories" /></a>
@@ -17,7 +17,7 @@
 <td width="30%"><samp>NAME</samp><br /><b>Amogh Sharma</b></td>
 <td width="30%"><samp>HOME BASE</samp><br /><b>CSE · Bennett University · India</b></td>
 <td width="40%" rowspan="2" align="center" valign="middle">
-<img src="./assets/anubis-lab.svg" width="100%" alt="16-bit Anubis developer typing at a retro computer" />
+<img src="./anubis-lab.svg" width="100%" alt="16-bit Anubis developer typing at a retro computer" />
 </td>
 </tr>
 <tr>
