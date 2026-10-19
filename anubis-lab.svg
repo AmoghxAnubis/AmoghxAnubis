@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 236" role="img" aria-labelledby="title desc">
+  <title id="title">Anubis in the pixel lab</title>
+  <desc id="desc">A 16-bit orange jackal developer typing at a retro computer, with a blinking terminal and a warm cup of coffee.</desc>
+  <style>
+    .cursor { animation: blink 1.2s steps(1, end) infinite; }
+    .keys { animation: type .8s steps(2, end) infinite; }
+    .steam { animation: steam 3s steps(4, end) infinite; }
+    @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+    @keyframes type { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(2px); } }
+    @keyframes steam { 0%, 100% { transform: translateY(0); opacity: .45; } 50% { transform: translateY(-4px); opacity: .8; } }
+    @media (prefers-reduced-motion: reduce) { .cursor, .keys, .steam { animation: none; } }
+  </style>
+  <g shape-rendering="crispEdges">
+    <!-- A quiet tiled floor, with a handful of game-world pixels. -->
+    <path d="M24 199H296M40 207H280M64 215H256" stroke="#292831" stroke-width="2"/>
+    <path d="M48 191H80M244 191H272M72 199V207M248 199V207" stroke="#37333c" stroke-width="2"/>
+    <path d="M35 60H43V64H35ZM39 56H43V68H39Z" fill="#ff7a18"/>
+    <path d="M260 35H264V47H260ZM256 39H268V43H256Z" fill="#b898ff"/>
+    <path d="M284 101H288V105H284ZM144 26H148V30H144Z" fill="#55d5f5"/>
+    <!-- Chair and hoodie silhouette. -->
+    <path d="M48 124H60V112H96V124H104V172H96V180H60V168H48Z" fill="#25232d"/>
+    <path d="M52 128H56V164H52ZM60 116H92V120H60Z" fill="#494151"/>
+    <path d="M76 176H84V192H100V196H60V192H76Z" fill="#504752"/>
+    <path d="M76 108H112V116H120V152H112V168H72V156H64V124H72V116H76Z" fill="#ff7a18"/>
+    <path d="M72 128H80V156H104V164H72ZM112 120H120V152H112Z" fill="#bc4c14"/>
+    <path d="M84 120H104V144H84Z" fill="#14131a"/>
+    <path d="M88 124H92V136H88ZM100 124H104V136H100Z" fill="#f4c38b"/>
+    <path d="M84 148H108V152H84Z" fill="#ffae55"/>
+    <!-- Tall ears and stepped jackal head, deliberately on a 4px grid. -->
+    <path d="M72 32H80V40H84V48H88V56H104V48H108V40H112V28H120V72H124V96H116V104H104V112H88V108H76V100H68V68H72Z" fill="#18161f"/>
+    <path d="M76 40H80V52H84V64H88V72H80V68H76ZM112 44H116V68H108V64H112Z" fill="#ff7a18"/>
+    <path d="M76 76H84V72H108V76H116V88H120V96H108V104H88V100H80V92H76Z" fill="#ff7a18"/>
+    <path d="M80 76H88V80H80ZM108 76H116V80H108Z" fill="#ffb45c"/>
+    <path d="M84 84H92V88H84ZM104 84H112V88H104Z" fill="#0b0b0e"/>
+    <path d="M92 92H104V96H100V100H96V96H92Z" fill="#0b0b0e"/>
+    <path d="M88 100H108V104H88Z" fill="#be4e15"/>
+    <path d="M76 76H80V96H76Z" fill="#ce5516"/>
+    <!-- Desk legs, computer case, and orange edge lighting. -->
+    <path d="M112 156H276V164H112ZM120 164H128V196H120ZM260 164H268V196H260Z" fill="#55424a"/>
+    <path d="M112 156H276V160H112Z" fill="#ff7a18"/>
+    <path d="M124 164H128V196H124ZM264 164H268V196H264Z" fill="#2e2733"/>
+    <path d="M224 168H252V196H224Z" fill="#292733"/>
+    <path d="M228 172H248V176H228ZM228 180H240V184H228Z" fill="#524857"/>
+    <path d="M244 188H248V192H244Z" fill="#ff7a18"/>
+    <!-- Chunky CRT with a tiny, legible code motif. -->
+    <path d="M152 64H232V68H236V124H232V128H200V140H220V144H168V140H188V128H152V124H148V68H152Z" fill="#5b5265"/>
+    <path d="M156 68H228V72H232V120H228V124H156V120H152V72H156Z" fill="#b7aebd"/>
+    <path d="M160 76H224V112H160Z" fill="#10151c"/>
+    <path d="M164 80H172V84H164ZM168 84H176V88H168ZM164 88H172V92H164Z" fill="#ff7a18"/>
+    <path d="M184 84H208V88H184ZM180 96H212V100H180ZM180 104H200V108H180Z" fill="#55d5f5" opacity=".8"/>
+    <path class="cursor" d="M180 84H184V88H180Z" fill="#f4f0e9"/>
+    <path d="M216 116H224V120H216Z" fill="#ff7a18"/>
+    <path d="M192 128H200V140H192Z" fill="#3b3545"/>
+    <path d="M140 148H220V152H224V156H136V152H140Z" fill="#a69aaa"/>
+    <path d="M148 148H212V152H148Z" fill="#53475b"/>
+    <path d="M156 148V152M168 148V152M180 148V152M192 148V152M204 148V152" stroke="#d1c5d4" stroke-width="2"/>
+    <g class="keys">
+      <path d="M112 136H124V140H144V144H156V152H132V148H112Z" fill="#ff7a18"/>
+      <path d="M116 144H132V148H148V152H132V156H116Z" fill="#ca5416"/>
+      <path d="M140 140H152V144H140Z" fill="#ffb45c"/>
+    </g>
+    <!-- Coffee, with a deliberately stepped steam cycle. -->
+    <path d="M244 136H260V140H268V148H260V156H244Z" fill="#f2dbc5"/>
+    <path d="M260 140H264V148H260Z" fill="#a08172"/>
+    <path d="M248 136H256V140H248Z" fill="#563027"/>
+    <path class="steam" d="M248 128V120H252V112M256 128V124H260V116" fill="none" stroke="#b7aebd" stroke-width="2"/>
+    <path d="M100 172H116V184H136V192H108V188H100ZM80 172H96V184H108V192H80Z" fill="#19171f"/>
+    <path d="M108 188H136V192H108ZM80 188H108V192H80Z" fill="#ff7a18"/>
+  </g>
+  <text x="160" y="230" text-anchor="middle" font-family="monospace" font-size="9" letter-spacing="2" fill="#a5a0ac">ALWAYS IN THE LAB.</text>
+</svg>

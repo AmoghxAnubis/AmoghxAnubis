@@ -12,10 +12,13 @@
 
 <img src="./assets/identity.svg" width="100%" alt="01 / The human behind the handle" />
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%"><samp>NAME</samp><br /><b>Amogh Sharma</b></td>
-<td width="50%"><samp>HOME BASE</samp><br /><b>CSE · Bennett University · India</b></td>
+<td width="30%"><samp>NAME</samp><br /><b>Amogh Sharma</b></td>
+<td width="30%"><samp>HOME BASE</samp><br /><b>CSE · Bennett University · India</b></td>
+<td width="40%" rowspan="2" align="center" valign="middle">
+<img src="./assets/anubis-lab.svg" width="100%" alt="16-bit Anubis developer typing at a retro computer" />
+</td>
 </tr>
 <tr>
 <td><samp>BUILDING</samp><br /><b>Local AI · Native tools · CLI</b></td>
